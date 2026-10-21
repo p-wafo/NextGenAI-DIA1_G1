@@ -1,8 +1,0 @@
-revenue_cents
-2826250
-
-revenue_cents
-38480
-
-revenue_cents
-0
