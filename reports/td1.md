@@ -60,15 +60,15 @@ No replayed or synthetic row enters the scores presented. We do not have a writt
 
 ## AI assistance and contributions
 
-AI assistance was used to prepare the queries and the CSV check, analyse the traces, produce the tables and write the documents. Members must review this material and be able to explain the choices. AI tools and uses: Claude for references check,trace analysis and some documentation.Every result was re-run and verified by the group
+AI assistance was used to prepare the queries and the CSV check, analyse the traces, produce the tables and write the documents. Members must review this material and be able to explain the choices. AI tools and uses: Claude for reference checks, trace analysis and some documentation. Every result was re-run and verified by the group.
 
 | Member | Actual contribution |
 |---|---|
 | Oryssa Stella TALATALA | Operator A: ran GPT-OSS 120B on the 20 questions (`state-A.jsonl`, `traces-A.csv`). Checked references C10–C12. |
-| Jolan NALLET--PANG | Operator B: ran GPT-OSS 20B on the 20 questions (`state-B.jsonl`, `traces-B.csv`). Consolidated the traces: collected the raw files of the five operators (`state-A.jsonl` to `state-E.jsonl`, `traces-A.csv` to `traces-E.csv`), merged them into `traces-td1.csv` and published them in the repository. Checked references C04–C06 and C19. |
+| Jolan NALLET--PANG | Operator B: ran GPT-OSS 20B on the 20 questions (`state-B.jsonl`, `traces-B.csv`). Consolidated the traces: collected the raw files of the five operators (`state-A.jsonl` to `state-E.jsonl`, `traces-A.csv` to `traces-E.csv`), merged them into `traces-td1.csv` and published them in the repository. With Hugo, prepared the TD 1 analysis: model/question comparison with failure explanations, five-model summary, pivot view, first draft of this report and the reference-check script. Checked references C04–C06 and C19. |
 | Cecilia Sessi DOSSA | Operator C: ran Cohere North Mini Code on the 20 questions (`state-C.jsonl`, `traces-C.csv`). Checked references C13–C15. |
 | Tony THEBAUD-PERRIER | Operator D: ran Qwen3.8-27B on the 20 questions (`state-D.jsonl`, `traces-D.csv`). Checked references C01–C03. |
-| Hugo HOUPPE | Operator E: ran Dots3-Note Preview on the 20 questions (`state-E.jsonl`, `traces-E.csv`). Checked references C16–C18. |
+| Hugo HOUPPE | Operator E: ran Dots3-Note Preview on the 20 questions (`state-E.jsonl`, `traces-E.csv`). With Jolan, prepared the TD 1 analysis: model/question comparison with failure explanations, five-model summary, pivot view, first draft of this report and the reference-check script. Checked references C16–C18. |
 | Pierre-Olivier WAFO BAKAM | Role F. Wrote references C04–C06; checked C07–C09 and C20. Created the public repository, published `reference-td1.csv` and `traces-td1.jsonl`, organised the repository by TD. |
 
 ## Next steps

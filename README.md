@@ -9,10 +9,10 @@ Course pack: `2026-10-18-students-1` (kit of 14 October 2026).
 | Member | Role in TD 1 |
 |---|---|
 | Oryssa Stella TALATALA | A — GPT-OSS 120B (Groq) |
-| Jolan NALLET--PANG | B — GPT-OSS 20B (Groq); trace consolidation (collected, merged and published the raw traces) |
+| Jolan NALLET--PANG | B — GPT-OSS 20B (Groq); trace consolidation; TD 1 analysis |
 | Cecilia Sessi DOSSA | C — Cohere North Mini Code (OpenRouter) |
 | Tony THEBAUD-PERRIER | D — Qwen3.8-27B (Groq) |
-| Hugo HOUPPE | E — Dots3-Note Preview (OpenRouter) |
+| Hugo HOUPPE | E — Dots3-Note Preview (OpenRouter); TD 1 analysis |
 | Pierre-Olivier WAFO BAKAM | F — reference cross-checks, consolidation, repository |
 
 Protocol roles: A to E each operate one model (20 calls); the other members cross-check the references and consolidate the traces. Each session report (`reports/`) details individual contributions.
